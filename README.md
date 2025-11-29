@@ -14,14 +14,14 @@ The case also has slots for neodymium magnets, allowing the two halves to snap t
 
 You will need:
 
-14 x M2x5x3.5 heat-set inserts  
-14 x M2x12mm screws for MX or M2x8mm for Choc  
-2 x 2-pin toggle switches (10x15 mm)  
-2 x 18650 battery holders  
-2 x 18650 batteries  
-10 x 7x4mm neodymium magnets OR 20 x 7x2mm neodymium magnets (you can get by with just ten 7x2mm magnets, but the connection will be weaker)  
-10 x 5x2mm anti-slip rubber feet  
-4 x JST 1.25mm connector pairs (male+female)  
+- 14 x M2x5x3.5 heat-set inserts  
+- 14 x M2x12mm screws for MX or M2x8mm for Choc  
+- 2 x 2-pin toggle switches (10x15 mm)  
+- 2 x 18650 battery holders  
+- 2 x 18650 batteries  
+- 10 x 7x4mm neodymium magnets OR 20 x 7x2mm neodymium magnets (you can get by with just ten 7x2mm magnets, but the connection will be weaker)  
+- 10 x 5x2mm anti-slip rubber feet  
+- 4 x JST 1.25mm connector pairs (male+female)  
 
 ## Images
 
